@@ -1,0 +1,2 @@
+# -MetricDemo
+Demonstrates static methods.
